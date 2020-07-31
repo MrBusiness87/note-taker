@@ -1,13 +1,13 @@
 [{
-  "title": "tests",
-  "body": "asfdfsd",
-  "journal": "food"
+  "title": "test1",
+  "body": "Lorem ipsum dolor sit amet.",
+  "journal": "item"
 }, {
-  "title": "lskfjsdlk",
-  "body": "sdjlfkjdsklf",
-  "journal": "excercise"
+  "title": "test2",
+  "body": "Lorem amet sit dolor ipsum.",
+  "journal": "thing"
 }, {
-  "title": "ouch",
-  "body": "dude",
-  "journal": "food"
+  "title": "test3",
+  "body": "Lorem ipsum dolor sit amet.",
+  "journal": "widget"
 }]
